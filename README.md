@@ -1,3 +1,3 @@
 # git_practice
-### This is Heading 
-## This is sub Heading
+## This is Heading 
+### This is sub Heading
